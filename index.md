@@ -39,6 +39,9 @@ A dropdown menu allows users to filter the chart by a specific usage description
 ### **6. Impact of Interactivity**  
 The dropdown filter by usage description allows users to focus on specific categories, enabling easy comparison across counties and revealing trends in the data.
 
+### **7.Overlaps with Homework #7**
+While the same dataset was used, this plot does not overlap with the analysis from previous homework. It focuses on visualizing the total square footage across counties, grouped by usage description, which is a different analysis and visualization approach compared to previous homework.
+
 ## Visualization 2: Bubble Chart of Square Footage by Agency and Congressional District
 <!-- Embed the JSON chart for Square Footage by Agency and Congressional District -->
 <div id="vis2"></div>
@@ -71,6 +74,9 @@ A dropdown menu allows users to filter the chart by building status.
 
 ### **6. Impact of Interactivity**  
 The filter by building status helps users explore data based on different building conditions, providing deeper insights into how status impacts square footage across agencies and districts.
+
+### **7.Overlaps with Homework #7**
+This plot also uses the same dataset but explores the relationship between agencies, congressional districts, and square footage, incorporating building status. It is distinct from the visualizations in previous homework.
 
 #### Resources
 
